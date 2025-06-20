@@ -39,7 +39,7 @@ const AboutPage: React.FC = () => {
           >
             <h1 className="text-4xl md:text-6xl font-bold mb-6">About Al Barakah Foundation</h1>
             <p className="text-xl text-gray-100">
-              Learn about our mission, vision, and the dedicated team working to serve our community.
+              Learn about our mission, vision, and the dedicated teams working to serve our community.
             </p>
           </motion.div>
         </div>
